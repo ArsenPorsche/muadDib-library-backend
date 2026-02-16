@@ -139,3 +139,7 @@ Token is returned on login (`POST /api/users/login`) in the `data` field.
 | `JWTPRIVATEKEY`| Secret key for JWT signing     |
 | `SALT`         | bcrypt salt rounds             |
 | `PORT`         | Server port (default: 8080)    |
+
+## Related
+
+- [BookShelf Client (Frontend)](https://github.com/ArsenPorsche/muadDib-library-backend/tree/main/client)
