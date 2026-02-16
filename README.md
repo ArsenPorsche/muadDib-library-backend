@@ -142,4 +142,4 @@ Token is returned on login (`POST /api/users/login`) in the `data` field.
 
 ## Related
 
-- [BookShelf Client (Frontend)](https://github.com/ArsenPorsche/muadDib-library-frontend/blob/main/README.md)
+- [BookShelf Client (Frontend)](https://github.com/ArsenPorsche/muadDib-library-frontend)
